@@ -1,0 +1,45 @@
+
+ul {
+background-color: red;
+}
+
+h2 {
+color: yellow;
+background-color: red;
+}
+
+h1 {
+border: hidden;
+  color: white;
+background-color: red;
+type-align: center;
+}
+
+div {
+ border: hidden;
+padding-left: 100px;
+padding-right: 0px;
+padding-top: 50px;
+padding-bottom: 50px;
+  margin-top: 0px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 150px;
+  
+background-color: red;
+}
+
+.titulo {
+color: red;
+background-color: yellow;
+type-font: Comic Sans MT;
+type-align: center;
+border-style: solid; 
+padding-left: 100px;
+padding-right: 0px;
+padding-top: 50px;
+padding-bottom: 50px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-right: 150px;
+  margin-left: 150px;
